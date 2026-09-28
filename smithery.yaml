@@ -1,0 +1,6 @@
+name: genpark-pedersen-commitment-homomorphic-hiding-skill
+version: 1.0.0
+description: Additively homomorphic Pedersen commitment scheme ensuring perfect hiding and computational binding
+command: python
+args:
+  - mcp_server.py
