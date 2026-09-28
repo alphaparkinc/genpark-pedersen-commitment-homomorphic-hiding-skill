@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-pedersen-commitment-homomorphic-hiding-skill"
+version = "1.0.0"
+description = "Additively homomorphic Pedersen commitment scheme ensuring perfect hiding and computational binding"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
