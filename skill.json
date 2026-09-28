@@ -1,0 +1,20 @@
+{
+  "name": "genpark-pedersen-commitment-homomorphic-hiding-skill",
+  "version": "1.0.0",
+  "description": "Additively homomorphic Pedersen commitment scheme ensuring perfect hiding and computational binding",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "pedersen-commitment",
+    "homomorphic-encryption",
+    "zero-knowledge",
+    "cryptographic-commitments",
+    "perfect-hiding",
+    "python-standard-library",
+    "agent-skills",
+    "confidential-transactions",
+    "cryptography",
+    "discrete-log"
+  ]
+}
